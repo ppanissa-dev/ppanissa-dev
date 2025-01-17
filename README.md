@@ -10,26 +10,6 @@
 - **Banco de Dados**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Firebase)
 - **DevOps & Ferramentas**: Docker, Git, CI/CD, AWS, Azure
 
-## 🛠 **Experiência Profissional**:
-
-### **Freelancer** | 2012 - 2018
-Trabalhei como freelancer, desenvolvendo uma ampla gama de projetos, incluindo sites e sistemas de gerenciamento.
-
-### **Quality Sistemas** | 2018 (3 meses)
-Trabalhei em uma empresa especializada no atendimento a prefeituras, focado no desenvolvimento de soluções **web**.
-
-### **Before Sistemas** | 2018 - 2021
-Fui parte da equipe responsável pela manutenção e inovação no sistema de **atendimento para a revista Vivo**.
-
-### **Grupo Imagetech** | 2021 (6 meses)
-Atuei como **Tech Lead** nos projetos da software house do Grupo Imagetech.
-
-### **Saúde ID e Grupo Fleury** | 2021 - 2022
-Trabalhei no sistema de **APS (Atendimento Primário à Saúde)**, um projeto crucial para o setor de saúde.
-
-### **Gaivota/Seedz** | 2022 - Atualmente
-Atuo na Seedz, uma empresa de soluções de **Trading** e **Marketplace**, com foco em grandes players do mercado latino-americano.
-
 ## 📈 **Estatísticas do GitHub**
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ppanissa-dev&show_icons=true&count_private=true&hide=prs&theme=radical)
@@ -54,26 +34,6 @@ Atuo na Seedz, uma empresa de soluções de **Trading** e **Marketplace**, com f
 - **Databases**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Firebase)
 - **DevOps & Tools**: Docker, Git, CI/CD, AWS, Azure
 
-## 🛠 **Professional Experience**:
-
-### **Freelancer** | 2012 - 2018
-I worked as a freelancer, developing a wide range of projects, including websites and management systems.
-
-### **Quality Sistemas** | 2018 (3 months)
-Worked in a company specialized in municipal services, focusing on the development of **web solutions**.
-
-### **Before Sistemas** | 2018 - 2021
-I was part of the team responsible for maintaining and innovating the **Vivo magazine** service system.
-
-### **Grupo Imagetech** | 2021 (6 months)
-I worked as a **Tech Lead** in the software house projects of Grupo Imagetech.
-
-### **Saúde ID and Grupo Fleury** | 2021 - 2022
-I worked on the **APS (Primary Health Care)** system, a critical project for the healthcare sector.
-
-### **Gaivota/Seedz** | 2022 - Present
-I currently work at Seedz, a company providing **Trading** and **Marketplace** solutions, focusing on major players in the Latin American market.
-
 ## 📈 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppanissa-dev&show_icons=true&count_private=true&hide=prs&theme=radical)
@@ -87,11 +47,3 @@ I currently work at Seedz, a company providing **Trading** and **Marketplace** s
 - 🖥 **dev.to**: [@paulopanissa-dev](https://dev.to/paulopanissa-dev)
 
 ---
-
-## 📢 **Little Bio**
-
-**Portuguese**:
-Sou um **desenvolvedor Fullstack** apaixonado por **React/Remix**, **Next.js**, **Vue.js**, **NestJS**, **arquitetura de sistemas** e **integração com grandes empresas**. Estou focado em **GO LANG** para criar soluções de alto desempenho. Atualmente, trabalho na **Seedz.ag** e já passei por projetos de **Trading** e **Marketplaces** com players como **Magalu**.
-
-**English**:
-I’m a **Fullstack Developer** passionate about **React/Remix**, **Next.js**, **Vue.js**, **NestJS**, **system architecture**, and **integration with major companies**. Currently focused on learning **GO LANG** to build high-performance solutions. Currently working at **Seedz.ag**, with past projects in **Trading** and **Marketplaces**, including collaborations with companies like **Magalu**.
